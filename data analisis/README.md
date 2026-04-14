@@ -11,17 +11,17 @@ Menyusun query SQL untuk analisis data
 Membangun dashboard interaktif
 Menghasilkan insight yang actionable
 ### Tools & Teknologi
-🔹 Data Processing & Analysis
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Jupyter Notebook / VS Code
-🔹 Database
-SQL (MySQL / PostgreSQL)
-Data querying & data manipulation
-🔹 Data Visualization
-Looker Studio (Google Data Studio)
-Excel (Pivot Table, Chart)
-🔹 Lainnya
-Git & GitHub (Version Control)
+- Data Processing & Analysis
+    Python (Pandas, NumPy, Matplotlib, Seaborn)
+    Jupyter Notebook / VS Code
+- Database
+    SQL (MySQL / PostgreSQL)
+    Data querying & data manipulation
+- Data Visualization
+    Looker Studio (Google Data Studio)
+    Excel (Pivot Table, Chart)
+- Lainnya
+    Git & GitHub (Version Control)
 ### Workflow Project
 - Data Collection
     Data berasal dari file Excel / CSV / database

@@ -11,45 +11,48 @@ Mengimplementasikan model menggunakan tools industri
 Membandingkan performa model manual vs library
 Menghasilkan insight berbasis model
 ## Tools & Teknologi
-🔹 Data Science
-    Python 
+- Data Science
+    Python 🐍
     NumPy
     Pandas
     Matplotlib / Seaborn
-🔹 Machine Learning
+- Machine Learning
     Manual Implementation (from scratch)
     Scikit-learn
-🔹 Environment
+- Environment
     Jupyter Notebook / VS Code
     Git & GitHub
 ## Workflow Project
 - Data Collection
-    Dataset dari CSV / Excel / database
+- Dataset dari CSV / Excel / database
 - Data Preprocessing
-    Handling missing values
+- Handling missing values
 - Encoding categorical data
-    Feature scaling
+- Feature scaling
 - Exploratory Data Analysis (EDA)
-    Analisis distribusi data
+- Analisis distribusi data
 - Korelasi antar fitur
-    Visualisasi
+- Visualisasi
 
 ## Model Development
 
-A. From Scratch (Manual)
+1. From Scratch (Manual)
     Implementasi algoritma tanpa library
     Contoh:
     Linear Regression
     Logistic Regression
     KNN / Decision Tree (opsional)
-B. Using Library
+2. Using Library
     Implementasi menggunakan Scikit-learn
     Training & testing model
     Hyperparameter tuning
+
 ## Model Evaluation
+
     Accuracy / Precision / Recall / F1-score
     Confusion Matrix
     Mean Squared Error (untuk regression)
     Comparison & Insight
+
 ## Analisis performa
     Interpretasi hasil
