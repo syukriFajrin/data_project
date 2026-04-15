@@ -16,13 +16,13 @@ Data akan dimasukkan satu persatu. Proses akan mudah digunakan jika tujuan input
 
 1. Membuat Databases di mysql (kalau belum ada)
 
-'''
+```
 create nama_database ;
-'''
+```
 
 2. Membuat tabel di mysql (kalau belum ada)
 
-'''
+```
 use  nama_databases;
 create teble  nama_tabel (
     nama_column type_data ;
@@ -30,6 +30,7 @@ create teble  nama_tabel (
     .....
     .....
 )
+```
 3.  membangun sitem menggunakan python
 
 !(flowchart.png)
