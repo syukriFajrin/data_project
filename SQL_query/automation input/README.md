@@ -33,4 +33,14 @@ create teble  nama_tabel (
 ```
 3.  membangun sitem menggunakan python
 
-![flowchart](flowchart.png)
+    ![flowchart](flowchart.png) 
+
+prinsipnya python melakukan iterasi sesuai dengan jumlah data yang diinputkan. 
+
+keunggulan :
+1. bisa digunakan tiap file
+2. input data cepat dan minus error 
+
+kekurangan
+1. Perlu update query manual sesuai dengan databases mysql 
+2. Input data manual menggunakan python pandas 
