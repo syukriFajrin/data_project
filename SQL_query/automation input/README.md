@@ -33,4 +33,4 @@ create teble  nama_tabel (
 ```
 3.  membangun sitem menggunakan python
 
-!(flowchart.png)
+![flowchart](flowchart.png)
